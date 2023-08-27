@@ -1,6 +1,6 @@
 # CardioRisk
 
-#Prerequisites
+# Prerequisites
 
 1. Python 3.6 or higher
 2. Jupyter Notebook
